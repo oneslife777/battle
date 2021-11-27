@@ -1,0 +1,27 @@
+/* スマートフォン用CSS */
+@media screen and (max-width: 640px) {
+
+p{
+    margin:0px;
+}
+
+#e_screen{
+    margin:0px;
+}
+#c_screen{
+    margin:0px;
+}
+
+#player {
+    float: right;
+}
+
+#enemy {
+    float: left;
+}
+
+.boxContainer{
+    width: 512px;
+    overflow: hidden;
+}
+}

@@ -198,6 +198,7 @@ window.onload = function MainSystem(){
 
     if((end_count>=124)==false){
         pixelart("enemy",134,106,50,100);
+      
     }
 
     // if(enemy_turn && animeflag && !p_deadflag){

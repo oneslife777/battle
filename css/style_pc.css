@@ -1,3 +1,6 @@
+/* PC用CSS */
+@media print, screen and (min-width: 640px) {
+
 p{
     margin:0px;
 }
@@ -20,4 +23,5 @@ p{
 .boxContainer{
     width: 512px;
     overflow: hidden;
+}
 }
